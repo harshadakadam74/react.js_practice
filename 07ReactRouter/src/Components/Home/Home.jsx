@@ -32,12 +32,12 @@ export default function Home() {
                 </div>
 
                 <div className="absolute inset-0 w-full sm:my-20 sm:pt-1 pt-12 h-full ">
-                    <img className="w-96" src="https://i.ibb.co/5BCcDYB/Remote2.png" alt="image1" />
+                    <img className="w-170" src="https://elements-resized.envatousercontent.com/envato-dam-assets-production/bf40e7fe-80fd-4c73-8bd6-441a221eca74/f5eaeb95-d8d3-4e70-af9f-7846c0044c2e.jpg?w=800&cf_fit=scale-down&mark-alpha=18&mark=https%3A%2F%2Felements-assets.envato.com%2Fstatic%2Fwatermark4.png&q=85&format=auto&s=f0e458cd92c3504386d4818f119b3ef9039611ee2d7e05d41cf5c27851a63ef5" alt="image1" />
                 </div>
             </aside>
 
             <div className="grid  place-items-center sm:mt-20">
-                <img className="sm:w-96 w-48" src="https://i.ibb.co/2M7rtLk/Remote1.png" alt="image2" />
+                <img className="sm:w-150 w-48" src="https://elements-resized.envatousercontent.com/envato-dam-assets-production/EVA/TRX/6b/15/38/7d/26/v1_E10/E10246XD.jpg?w=1600&cf_fit=scale-down&mark-alpha=18&mark=https%3A%2F%2Felements-assets.envato.com%2Fstatic%2Fwatermark4.png&q=85&format=auto&s=7f73da7bf4fe324065539e907ed37897dc5a21f5474a5b74b4a82b540a5049e6" alt="image2" />
             </div>
 
             <h1 className="text-center text-2xl sm:text-5xl py-10 font-medium">Lorem Ipsum Yojo</h1>

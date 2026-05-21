@@ -5,9 +5,9 @@ export default function About() {
         <div className="py-16 bg-white">
             <div className="container m-auto px-6 text-gray-600 md:px-12 xl:px-6">
                 <div className="space-y-6 md:space-y-0 md:flex md:gap-6 lg:items-center lg:gap-12">
-                    <div className="md:5/12 lg:w-5/12">
+                    <div className="md:5/10 lg:w-5/10">
                         <img
-                            src="https://tailus.io/sources/blocks/left-image/preview/images/startup.png"
+                            src="https://elements-resized.envatousercontent.com/envato-dam-assets-production/EVA/TRX/e6/24/45/f6/bf/v1_E10/E109DMMX.jpg?w=800&cf_fit=scale-down&mark-alpha=18&mark=https%3A%2F%2Felements-assets.envato.com%2Fstatic%2Fwatermark4.png&q=85&format=auto&s=9530169172de40f8f52e91b4c2fdebd4f15466a2a6be6211cec65c347903482c"
                             alt="image"
                         />
                     </div>
